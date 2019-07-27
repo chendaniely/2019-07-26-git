@@ -1,6 +1,6 @@
 # Git
 
-Local:
+## Local:
 
 - `init`: initialize the repository
 - `status`: looks at the state of the respository
@@ -10,7 +10,7 @@ Local:
 - `diff`: differences between states/files
 - `log`: our history
 
-Remotes:
+## Remotes:
 
 - `remote add <name> <URL>`: sets a URL to the <name>
 - `push origin master`: sends master branch to origin
