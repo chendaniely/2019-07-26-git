@@ -2,7 +2,7 @@
 
 Notes for a git workshop
 
-## Local
+## Local commands
 
 - `init`: initialize the repository
 - `status`: looks at the state of the respository
@@ -14,7 +14,7 @@ Notes for a git workshop
     - `log --oneline`: to see the simple oneline log
     - `log --oneline --decorate --all --graph`: shows you all the branches, labled, and grpah nodes 
 
-## Remotes
+## Remote commands
 
 - `remote add <name> <URL>`: sets a URL to the <name>
 - `push origin master`: sends master branch to origin
