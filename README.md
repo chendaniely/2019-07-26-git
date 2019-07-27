@@ -9,6 +9,8 @@
   - `commit -m ""`: allows for a quick oneline commit message
 - `diff`: differences between states/files
 - `log`: our history
+    - `log --oneline`: to see the simple oneline log
+    - `log --oneline --decorate --all --graph`: shows you all the branches, labled, and grpah nodes 
 
 ## Remotes:
 
