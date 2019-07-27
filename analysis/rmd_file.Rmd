@@ -32,3 +32,9 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+## Calculating mean with na.rm default TRUE
+
+```{r}
+my_mean(cars$speed)
+```
